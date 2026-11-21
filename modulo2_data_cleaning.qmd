@@ -1046,7 +1046,6 @@ Prova nell'area di prova:
 sum(is.na(dati$sex))     # valori mancanti
 sum(!is.na(dati$sex))    # valori presenti
 colSums(is.na(dati))     # valori mancanti in ogni variabile
-skim(dati)               # riepilogo dei valori mancanti
 ```
 
 ::: {.callout-tip appearance="default" icon="false"}

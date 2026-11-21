@@ -37,11 +37,11 @@ Tutti i file si trovano nella cartella `dati` dei materiali del corso.
 ::: callout-warning
 ## Attenzione a…
 
-`dataset_esercitazione_raw` contiene **errori intenzionali**: valori scritti
-in modi diversi, codici utilizzati al posto dei valori mancanti, date in formati
-differenti e righe duplicate. Trovarli e correggerli è proprio il lavoro
-dei Moduli 2 e 3. Nel tracciato riportato qui sotto trovi i valori **corretti attesi**,
-non necessariamente quelli che troverai davvero nel file.
+`dataset_esercitazione_raw` contiene **errori voluti**: valori scritti
+in modi diversi, codici al posto dei valori mancanti, date in formati
+diversi, righe duplicate. Trovarli e correggerli è proprio il lavoro
+dei Moduli 2 e 3. Nel tracciato qui sotto trovi i valori **previsti**,
+non quelli che troverai davvero nel file.
 :::
 
 ## I dati della coorte
